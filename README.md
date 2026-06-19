@@ -4,9 +4,8 @@
 
 | Thông tin | Chi tiết |
 |-----------|----------|
-| **Họ và tên** | [Điền tên của bạn] |
-| **MSSV** | [Điền MSSV] |
-| **Lớp** | [Điền tên lớp] |
+| **Họ và tên** | ĐINH VĂN BỐN  |
+| **MSSV** | 22010067 |
 | **Môn học** | Kiểm thử phần mềm |
 | **Ngày thực hiện** | Tháng 6, 2026 |
 
