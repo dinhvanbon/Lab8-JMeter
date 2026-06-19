@@ -125,23 +125,23 @@ Test Plan
 
 > 📸 **Hình 2: Cấu hình Thread Group (50 users)**
 
-![Thread Group Config](./images/02_thread_group.png)
+![Thread Group Config](02_thread_group.png)
 
 > 📸 **Hình 3: Cấu hình HTTP Request**
 
-![HTTP Request](./images/03_http_request.png)
+![HTTP Request](03_http_request.png)
 
 > 📸 **Hình 4: Kết quả View Results Tree**
 
-![View Results Tree](./images/04_results_tree.png)
+![View Results Tree](04_results_tree.png)
 
 > 📸 **Hình 5: Summary Report**
 
-![Summary Report](./images/05_summary_report.png)
+![Summary Report](05_summary_report.png)
 
 > 📸 **Hình 6: Aggregate Report**
 
-![Aggregate Report](./images/06_aggregate_report.png)
+![Aggregate Report](06_aggregate_report.png)
 
 ---
 
