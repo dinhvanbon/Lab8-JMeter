@@ -121,7 +121,7 @@ Test Plan
 
 > 📸 **Hình 1: Giao diện JMeter với Test Plan đã cấu hình**
 
-![JMeter Test Plan](./images/01_test_plan.png)
+![JMeter Test Plan](01_test_plan.png)
 
 > 📸 **Hình 2: Cấu hình Thread Group (50 users)**
 
